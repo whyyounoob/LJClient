@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LJClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LJClient_jar</output-path>
+    <root id="archive" name="LJClient.jar">
+      <element id="module-output" name="LJClient" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/org-apache-xmlrpc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/org-apache-ws-commons-util.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
